@@ -1,0 +1,16 @@
+{
+  "name": "wtxmd5-ai-taixiu",
+  "version": "1.0.0",
+  "description": "UltraDicePredictionSystem (21 model + pattern nang cao) wrap API polling nguon WTX MD5",
+  "main": "sever2.js",
+  "scripts": {
+    "start": "node sever2.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
